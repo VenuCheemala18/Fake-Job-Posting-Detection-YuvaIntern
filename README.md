@@ -1,4 +1,5 @@
 #Fake Job Posting Detection 🚨
+
 📌 Project Overview
 Fake job postings are a serious problem for job seekers and recruitment platforms. Fraudulent job advertisements can mislead applicants, collect personal information, or cause financial loss.
 
